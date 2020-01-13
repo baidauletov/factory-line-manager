@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/factory-line-manager/static/css/main.d1b05096.chunk.css",
+    "main.js": "/factory-line-manager/static/js/main.82569775.chunk.js",
+    "main.js.map": "/factory-line-manager/static/js/main.82569775.chunk.js.map",
+    "runtime-main.js": "/factory-line-manager/static/js/runtime-main.399238ef.js",
+    "runtime-main.js.map": "/factory-line-manager/static/js/runtime-main.399238ef.js.map",
+    "static/js/2.d14eb512.chunk.js": "/factory-line-manager/static/js/2.d14eb512.chunk.js",
+    "static/js/2.d14eb512.chunk.js.map": "/factory-line-manager/static/js/2.d14eb512.chunk.js.map",
+    "index.html": "/factory-line-manager/index.html",
+    "precache-manifest.c0efaa7266b21485948a75616004b236.js": "/factory-line-manager/precache-manifest.c0efaa7266b21485948a75616004b236.js",
+    "service-worker.js": "/factory-line-manager/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/factory-line-manager/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d14eb512.chunk.js.LICENSE": "/factory-line-manager/static/js/2.d14eb512.chunk.js.LICENSE",
+    "static/media/logo.svg": "/factory-line-manager/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.399238ef.js",
+    "static/js/2.d14eb512.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.82569775.chunk.js"
+  ]
+}
