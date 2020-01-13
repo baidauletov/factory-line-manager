@@ -2,7 +2,11 @@
   "name": "factory-line-maneger",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://baidauletov.github.io/factory-line-manager/",
+  // "homepage": "https://baidauletov.github.io/factory-line-manager/",
+  "engines": {
+    "npm": "5.7.1",
+    "node": "9.5.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
